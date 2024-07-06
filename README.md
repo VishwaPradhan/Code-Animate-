@@ -1,5 +1,3 @@
-# code-animate-2
-This repository is for my YouTube channel
+# code-animate
+animation effect 
 
-Visit here for live preview of website 
-https://thesiyhbrand.github.io/code-animate-2/
